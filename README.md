@@ -8,7 +8,7 @@ Duas planilhas contendo todos os 913 artigos coletados:
 - "Artigos_CPRI" que contém todos os 913 artigos;
 - "Artigos_CPRI" que contém todos os 913 artigos e os respectivos ISSN pesquisados no Publish and Perish (apesar de termos definido os ISSN no software, percebemos que os artigos retornados não eram sempre oriundos dos ISSN escolhidos).
 
-Duas planilhas com a amostra dos 213 artigos que separamos:
+Duas planilhas com a amostra dos 271 artigos que separamos:
 - "Repositório_Amostra_Codificada_CPRI" com as cores e codificações respectivas que definimos;
 - "Repositório_Amostra_CPRI" sem cores nem codificação. 
 
